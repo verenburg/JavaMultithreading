@@ -30,5 +30,6 @@ public class Solution {
             System.out.print(str.substring(str.length() - 8) + " ");
         }
         System.out.println();
+        System.out.println("Самолёт");
     }
 }
